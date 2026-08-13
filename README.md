@@ -8,6 +8,12 @@ I enjoy turning messy problems into reliable software, especially around **backe
 
 ### Understand → Simplify → Design → Build → Iterate
 
+## 📄 Resume
+
+Want to know more about my experience?
+
+[**Download my CV →**](./Alfredo_Mahns_CV.pdf)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alfredo-mahns-condeza/) 
 
