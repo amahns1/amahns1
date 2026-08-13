@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hi! I'm Alfredo
 
 Hey! Thanks for stopping by — hopefully we get to build something together someday.
 
