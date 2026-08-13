@@ -12,7 +12,7 @@ I enjoy turning messy problems into reliable software, especially around **backe
 
 A more detailed look at my experience, education, and technical background.
 
-### [View my resume ↗](./Alfredo_Mahns_CV.pdf)
+[View my resume →](./Alfredo_Mahns_resume.pdf)
 
 ## 🚀 Projects
 
