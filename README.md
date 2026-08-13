@@ -14,6 +14,14 @@ Want to know more about my experience?
 
 [**Download my CV →**](./Alfredo_Mahns_CV.pdf)
 
+## 🚀 Projects
+
+Want to know more about my projects?
+
+Something exciting is in the works.
+
+**Coming soon... 👀**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alfredo-mahns-condeza/) 
 
