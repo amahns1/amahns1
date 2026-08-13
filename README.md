@@ -8,11 +8,11 @@ I enjoy turning messy problems into reliable software, especially around **backe
 
 ### Understand → Simplify → Design → Build → Iterate
 
-## 📄 Resume
+## 📎 Resume
 
-Want to know more about my experience?
+A more detailed look at my experience, education, and technical background.
 
-[**Download my CV →**](./Alfredo_Mahns_CV.pdf)
+### [View my resume ↗](./Alfredo_Mahns_CV.pdf)
 
 ## 🚀 Projects
 
